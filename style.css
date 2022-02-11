@@ -383,7 +383,7 @@
    width: 290px;
    height: 24px;
    background: #C88A12;
-   top: 223px;
+   top: 206px;
    left: 40px;
 
 }
@@ -392,7 +392,7 @@
    width: 290px;
    height: 24px;
    background: #C88A12;
-   top: 476px;
+   top: 460px;
    left: 40px;
 
 }
@@ -401,7 +401,7 @@
    width: 290px;
    height: 24px;
    background: #C88A12;
-   top: 446px;
+   top: 430px;
    left: 40px;
 
 }
@@ -411,7 +411,7 @@
    width: 290px;
    height: 24px;
    background: #C88A12;
-   top: 691.3px;
+   top: 675.3px;
    left: 40px;
 
 }
@@ -420,7 +420,7 @@
    width: 290px;
    height: 24px;
    background: #C88A12;
-   top: 661.3px;
+   top: 645.3px;
    left: 40px;
 
 }
@@ -438,7 +438,7 @@
    width: 290px;
    height: 24px;
    background: #C88A12;
-   top: 842px;
+   top: 828px;
    left: 40px;
 
 }
@@ -447,7 +447,7 @@
    width: 290px;
    height: 24px;
    background: #C88A12;
-   top: 812px;
+   top: 796px;
    left: 40px;
 
 }
@@ -465,7 +465,7 @@
    width: 290px;
    height: 24px;
    background: #C88A12;
-   top: 938px;
+   top: 922px;
    left: 40px;
 
 }
@@ -474,7 +474,7 @@
    width: 290px;
    height: 24px;
    background: #C88A12;
-   top: 908px;
+   top: 892px;
    left: 40px;
 
 }
@@ -510,7 +510,7 @@ line-height: 22px;
     width: 580px;
     height: 198px;
     border: 0.5px solid #ABABAB;
-    top: 250px;
+    top: 234px;
     left: 40px;
     display: flex;
 }
@@ -519,7 +519,7 @@ line-height: 22px;
     width: 580px;
     height: 180px;
     border: 0.5px solid #ABABAB;
-    top: 250px;
+    top: 234px;
     left: 40px;
     display: flex;
 }
@@ -600,7 +600,7 @@ line-height: 22px;
     width: 580px;
     height: 158px;
     border: 0.5px solid #ABABAB;
-    top: 504px;
+    top: 488px;
     left: 40px;
     display: flex;
 }
@@ -609,7 +609,7 @@ line-height: 22px;
     width: 580px;
     height: 158px;
     border: 0.5px solid #ABABAB;
-    top: 474px;
+    top: 458px;
     left: 40px;
     display: flex;
 }
@@ -618,7 +618,7 @@ line-height: 22px;
     width: 580px;
     height: 72px;
     border: 0.5px solid #ABABAB;
-    top: 718px;
+    top: 702px;
     left: 40px;
     display: flex;
 }
@@ -627,7 +627,7 @@ line-height: 22px;
     width: 580px;
     height: 72px;
     border: 0.5px solid #ABABAB;
-    top: 688px;
+    top: 672px;
     left: 40px;
     display: flex;
 }
@@ -645,7 +645,7 @@ line-height: 22px;
     width: 580px;
     height: 40px;
     border: 0.5px solid #ABABAB;
-    top: 870px;
+    top: 854px;
     left: 40px;
     display: flex;
 }
@@ -654,7 +654,7 @@ line-height: 22px;
     width: 580px;
     height: 40px;
     border: 0.5px solid #ABABAB;
-    top: 840px;
+    top: 824px;
     left: 40px;
     display: flex;
 }
@@ -672,7 +672,7 @@ line-height: 22px;
     width: 580px;
     height: 32px;
     border: 0.5px solid #ABABAB;
-    top: 966px;
+    top: 950px;
     left: 40px;
     display: flex;
 }
@@ -681,7 +681,7 @@ line-height: 22px;
     width: 580px;
     height: 32px;
     border: 0.5px solid #ABABAB;
-    top: 936px;
+    top: 920px;
     left: 40px;
     display: flex;
 }
@@ -946,13 +946,14 @@ color: #ED2024;
     padding-top: 4px;
 
 }
-.ad-2{
+.add-2{
     background: #C88A12;
-    border-left: 0.5px solid #ABABAB;
+    
     width: 290px;
     height: 28px;
     text-align: center;
     padding-top: 4px;
+    border-left: 0.5px solid #ABABAB;
 
 }
 
@@ -997,4 +998,59 @@ font-style: italic;
 font-weight: normal;
 font-size: 14px;
 line-height: 16px;
+}
+.flower{
+    position: absolute;
+    top: 456px;
+    right: 0px;
+}
+.flower-2{
+    position: absolute;
+    top: 1023.97px;
+    right: 0px;
+}
+.flower-3{
+    position: absolute;
+    top: 993.97px;
+    right: 0px;
+}
+.flower-4{
+    position: absolute;
+    top: 807.97px;
+    right: 0px;
+}
+.flower-5{
+    position: absolute;
+    top: 639.97px;
+    right: 0px;
+}
+.flower-6{
+    position: absolute;
+    top: 639.97px;
+    right: 0px;
+}
+.flower-7{
+    position: absolute;
+    top: 503.97px;
+    right: 0px;
+}
+.flower-8{
+    position: absolute;
+    top: 386.97px;
+    right: 0px;
+}
+.flower-9{
+    position: absolute;
+    top: 369.97px;
+    right: 0px;
+}
+.flower-10{
+    position: absolute;
+    top: 477.97px;
+    right: 0px;
+}
+.flower-11{
+    position: absolute;
+    top: 355.97px;
+    right: 0px;
 }
