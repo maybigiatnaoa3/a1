@@ -385,6 +385,7 @@
    background: #C88A12;
    top: 206px;
    left: 40px;
+   
 
 }
 .label-2{
@@ -493,14 +494,14 @@
 font-style: normal;
 font-weight: bold;
 font-size: 14px;
-line-height: 22px;
+
 color: #FFFFFF;
-padding: 1.3px 0px 0.7px 6px;
+
 }
 .c-4{
     font-family: Arial;
 font-style: italic;
-font-weight: bold;
+font-weight: 400;
 font-size: 14px;
 line-height: 22px;
 }
@@ -1053,4 +1054,12 @@ line-height: 16px;
     position: absolute;
     top: 355.97px;
     right: 0px;
+}
+.lblb{
+    height: 22px;
+width: 274px;
+margin-top: 3px;
+margin-left: 8px;
+
+
 }
